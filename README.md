@@ -8,7 +8,7 @@ git clone https://github.com/playfairs/selfbot.git
 cd selfbot
 ```
 
-##### For Nushell
+### For Nushell
 ```Bash
 bash -c "source selfbot/bin/activate && exec bash"
 ```
@@ -26,7 +26,7 @@ Or
 python3 main.py
 ```
 
-##### For Bash and Zsh
+### For Bash and Zsh
 ```Bash
 source selfbot/bin/activate
 ```
@@ -45,4 +45,4 @@ python3 main.py
 ```
 
 
-### Please be aware that the use of Selfbots does break Discord TOS and that you could be putting your account at risk when using one, I am not responsible for anything that happens to your account if you choose to use this selfbot, I also do not care if this selfbot works properly, selfbots are not my thing.
+##### Please be aware that the use of Selfbots does break Discord TOS and that you could be putting your account at risk when using one, I am not responsible for anything that happens to your account if you choose to use this selfbot, I also do not care if this selfbot works properly, selfbots are not my thing.
